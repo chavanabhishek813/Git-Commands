@@ -19,3 +19,5 @@ add        Add file contents to the index
    show       Show various types of objects
    status     Show the working tree status
    tag        Create, list, delete or verify a tag object signed with GPG
+    branch      current branches
+    checkout    checkout branch
